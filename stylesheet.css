@@ -56,8 +56,10 @@ body {
 	100%{
 		background-color: #ADD8E6;
 	}
+	125%{
+		background-color: #ADD8E6;
+        }
 }
-
 @-o-keyframes peach_alive {
 	0%{
 		background-color: #ADD8E6;
@@ -74,7 +76,11 @@ body {
 	100%{
 		background-color: #ADD8E6;
 	}
+       125%{
+		background-color: #ADD8E6;
+      {
 }
+
 
 @-ms-keyframes peach_alive {
 	0%{
@@ -92,7 +98,11 @@ body {
 	100%{
 		background-color: #ADD8E6;
 	}
+        125%{
+		background-color: #ADD8E6;
+        {
 }
+
 
 @keyframes peach_alive {
 	0%{
@@ -110,7 +120,11 @@ body {
 	100%{
 		background-color: #ADD8E6;
 	}
+        125%{
+		background-color: #ADD8E6;
+	{
 }
+
 
 
 .bulb {
