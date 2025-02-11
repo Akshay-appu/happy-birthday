@@ -36,19 +36,19 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #ADD8E6;
+		 background: url(annaweddingPIC.png) no-repeat center;
 	}
 	25%{
-		background-color: #FFE4B5;
+		 background: url(annaweddingPIC.png) no-repeat center;
 	}
 	50%{
-		background-color: #ADD8E6;
+		 background: url(annaweddingPIC.png) no-repeat center;
 	}
 	75%{
-		background-color: #FFEFD5;
+		 background: url(annaweddingPIC.png) no-repeat center;
 	}
 	100%{
-		background-color: #ADD8E6;
+		 background: url(annaweddingPIC.png) no-repeat center;
 	}
 }
 @-moz-keyframes peach_alive {
