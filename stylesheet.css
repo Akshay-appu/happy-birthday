@@ -8,6 +8,17 @@ body {
 	transition:background-color linear 8s;
 	overflow-x:hidden;
 }
+/* Home Section Styling */
+.home {
+  display: flex;
+  background: url(annaweddingPIC.png) no-repeat center;
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  min-height: 500px;
+  font-family: "Ubuntu", sans-serif;
+}
 .container {
 	display: none;
 }
